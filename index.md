@@ -2,7 +2,7 @@
 
 --- 
 
-### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)\
+### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)
  Results Day
 
 ![](gifs/day_fcos.gif)
@@ -13,10 +13,10 @@
 ![](gifs/night_fcos.gif)
 
 ---
-### All Day Depth Estimation \
+### All Day Depth Estimation
 [Unsupervised](https://anushl9o5.github.io/unsup_depth) \
-[Supervised](https://anushl9o5.github.io/sup_depth) \
- Results Day
+[Supervised](https://anushl9o5.github.io/sup_depth)\
+Results Day
 
 ![](gifs/un_day_depth.gif)
 
