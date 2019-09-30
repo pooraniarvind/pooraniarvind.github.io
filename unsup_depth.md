@@ -8,7 +8,7 @@ Detailed report with metrics [here](https://drive.google.com/open?id=1_dA0_R-ZED
 
 ![](IRmonodepth.png)
 
-Refer (https://github.com/mrharicot/monodepth), for requirements and other details
+Refer [Monodepth](https://github.com/mrharicot/monodepth), for requirements and other details
 
 
 ## Results Day
