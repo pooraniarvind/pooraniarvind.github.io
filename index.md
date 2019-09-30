@@ -1,33 +1,27 @@
 ## Portfolio
 
----
+--- 
 
-### Category Name 1 
+[Anchorless Pedestrian Detection](/sample_page)
+## Results Day
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![](gifs/day_fcos.gif)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Results Night
+
+![](gifs/night_fcos.gif)
 
 ---
+[All Day Depth Estimation](/pdf/sample_presentation.pdf)
+## Results Day
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+![](gifs/un_day_depth.gif)
 
 
+## Results Night
+
+![](gifs/un_night_depth.gif)
 
 
 ---
