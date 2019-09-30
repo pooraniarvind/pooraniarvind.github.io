@@ -3,7 +3,7 @@
 --- 
 
 [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)\
-Results Day
+# Results Day
 
 ![](gifs/day_fcos.gif)
 
