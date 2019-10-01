@@ -1,10 +1,14 @@
 title: Anush Kumar # your name (or website title) here
 logo: "/images/cropped.png?cropResize=50,50" # your photo (or logo) here
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
 social_icons:
   enable: true
   GitHub: github
   Twitter: twitter
-  LinkedIn: linkedin
+  Weibo: weibo
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Project Assistant - Video Analytics Lab, IISc 
   <br><br>
