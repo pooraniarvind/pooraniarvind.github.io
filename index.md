@@ -2,28 +2,28 @@
 ---
 # [Aesthetic Enhancment of Images](https://anushl9o5.github.io/aesthetic)
 
-## Results
+##### Results
 ![](aesthetic_samples/samples2.png)
 
 ---
 ### All Day Depth Estimation | [Unsupervised](https://anushl9o5.github.io/unsup_depth) | [Supervised](https://anushl9o5.github.io/sup_depth)    
-Results Day
+##### Results Day
 
 ![](gifs/un_day_depth.gif)
 
- Results Night
+ ##### Results Night
 
 ![](gifs/un_night_depth.gif)
 
 --- 
 
 ### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)
- Results Day
+##### Results Day
 
 ![](gifs/day_fcos.gif)
 
 
- Results Night
+##### Results Night
 
 ![](gifs/night_fcos.gif)
 
