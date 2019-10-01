@@ -8,16 +8,19 @@ The feature extractor is displayed below
 
 ## Results
 ### Sample #1
-![alt-text-1](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png "Before") ![alt-text-2](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png "After")
+#### Before
+![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png)
+#### After
+![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
 
 ### Sample #2
 #### Before
-![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png)
+![](aesthetic_samples/sample2/a0255-_DSC1448-Inp.png)
 #### After
-![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
+![](aesthetic_samples/sample2/a0255-_DSC1448-Res.png)
 
 ### Sample #3
 #### Before
-![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png)
+![](aesthetic_samples/sample1/a0168-LSCRW_2102-Inp.png)
 #### After
-![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
+![](aesthetic_samples/sample1/ 	a0168-LSCRW_2102-Res.png)
