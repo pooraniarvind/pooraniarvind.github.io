@@ -23,4 +23,4 @@ The feature extractor is displayed below
 #### Before
 ![](aesthetic_samples/sample1/a0168-LSCRW_2102-Inp.png)
 #### After
-![](aesthetic_samples/sample1/ 	a0168-LSCRW_2102-Res.png)
+![](aesthetic_samples/sample1/a0168-LSCRW_2102-Res.png)
