@@ -1,6 +1,6 @@
 # KAIST Multispectral Depth Estimation:
 
-This Repository contains code for Supervised Depth Estimation using IR images 
+Supervised Depth Estimation using IR images 
 Detailed report with metrics [here](https://drive.google.com/open?id=1_dA0_R-ZEDAT6cjaeVOq6hFsXlnt1svV)
 
 ## RGB-IR Encoder Decoder Network
