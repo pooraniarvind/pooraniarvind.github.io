@@ -8,6 +8,15 @@ The feature extractor is displayed below
 
 ## Results
 ### Sample #1
+![alt-text-1](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png "Before") ![alt-text-2](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png "After")
+
+### Sample #2
+#### Before
+![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png)
+#### After
+![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
+
+### Sample #3
 #### Before
 ![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png)
 #### After
