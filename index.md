@@ -1,6 +1,6 @@
 # Projects
 ---
-# [Aesthetic Enhancment of Images](https://anushl9o5.github.io/aesthetic)
+### [Aesthetic Enhancment of Images](https://anushl9o5.github.io/aesthetic)
 
 ##### Results
 ![](aesthetic_samples/samples2.png)
@@ -11,7 +11,7 @@
 
 ![](gifs/un_day_depth.gif)
 
- ##### Results Night
+##### Results Night
 
 ![](gifs/un_night_depth.gif)
 
