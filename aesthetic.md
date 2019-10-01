@@ -7,6 +7,4 @@ The feature extractor is displayed below
 ![](hdrnet.png)
 
 ## Results
-Input             |  Enhanced Ouptut
-:----------------:|:-----------------:
 ![](aesthetic_samples/samples.png)
