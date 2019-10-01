@@ -7,8 +7,8 @@ The feature extractor is displayed below
 ![](hdrnet.png)
 
 ## Results
-Before             |  After
-:-----------------:|:-----------------:
+Input             |  Enhanced Ouptut
+:----------------:|:-----------------:
 ![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png) | ![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
 ![](aesthetic_samples/sample2/a0255-_DSC1448-Inp.png) | ![](aesthetic_samples/sample2/a0255-_DSC1448-Res.png)
 ![](aesthetic_samples/sample1/a0168-LSCRW_2102-Inp.png) | ![](aesthetic_samples/sample1/a0168-LSCRW_2102-Res.png)
