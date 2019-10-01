@@ -6,6 +6,10 @@ The feature extractor is displayed below
 
 ![](hdrnet.png)
 
+Before             |  After
+:-----------------:|:-----------------:
+![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Inp.png) | ![](aesthetic_samples/sample3/a0001-jmac_DSC1459-Res.png)
+
 ## Results
 ### Sample #1
 #### Before
