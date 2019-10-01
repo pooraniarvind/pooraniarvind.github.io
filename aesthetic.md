@@ -8,7 +8,5 @@ The feature extractor is displayed below
 
 ## Results
 #### Before
-![](gifs/day_depth.gif)
-
 
 #### After
