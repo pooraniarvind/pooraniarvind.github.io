@@ -1,6 +1,5 @@
 ﻿# Multispectral FCOS: Fully Convolutional One-Stage Object Detection     
 
-
 ## Abstract
 This method is inspired by [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355), the implementation is derived from [DetectionTeamUCAS](https://github.com/DetectionTeamUCAS/FCOS_Tensorflow).     
 

@@ -7,7 +7,6 @@ The feature extractor is displayed below
 ![](hdrnet.png)
 
 ## General Pipeline
-The pipeline followed is shown in the figure, each blending map predicted by the network is blended to the corresponding input image. The maps are first multiplied by a baseline image before blending is done. The baseline image depends upon the which attribute is beign enhanced (contrast/saturation/brightness).
 
 ![](aesthetic_samples/aesthetic.png)
 
