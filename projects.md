@@ -1,6 +1,6 @@
 # Projects
 ---
-### [Aesthetic Enhancment of Images](https://anushl9o5.github.io/aesthetic)
+### [Aesthetic Enhancement of Images](https://anushl9o5.github.io/aesthetic)
 
 ![](aesthetic_samples/samples2.png)
 
