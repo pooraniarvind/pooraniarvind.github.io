@@ -10,12 +10,12 @@ As a member of the electronics and AI subsystem of this student rover design tea
 
 MRM participation in URC 2018 have been featured in leading newspapers, technical blogs and international magazines from time to time. Our achievements have been highlighted by all forms of media.
 
-## Winners of IRC 2018
+## Winners of IRC 2018 at VIT India
+Mars Rover Manipal participated in IRC 2018 along with teams from all over Asia. The event was organized by ISTE VIT and Creative Labs at Vellore Insitute of Technology, Vellore from 6th January to 8th January. [Read More...](https://timesofindia.indiatimes.com/city/mangaluru/mars-rover-manipal-secures-first-place-in-indian-rover-challenge-2018/articleshow/62495964.cms)
 
 [![Winners of IRC 2018](images/IRC.jpg)](https://timesofindia.indiatimes.com/city/mangaluru/mars-rover-manipal-secures-first-place-in-indian-rover-challenge-2018/articleshow/62495964.cms "Winners of IRC 2018")
 
-Mars Rover Manipal participated in IRC 2018 along with teams from all over Asia. The event was organized by ISTE VIT and Creative Labs at Vellore Insitute of Technology, Vellore from 6th January to 8th January. [Read More...](https://timesofindia.indiatimes.com/city/mangaluru/mars-rover-manipal-secures-first-place-in-indian-rover-challenge-2018/articleshow/62495964.cms)
-
-## MRM bags 7th rank globally during URC 2018
+## MRM bags 7th rank globally during URC 2018 at Utah in the US
+Mars Rover Manipal (MRM), a team of students from the Manipal Institute of Technology, finished seventh out of 36 teams from across the globe in the final round of the 12th University Rover Challenge (URC) competition at Utah in the US. [Read More...]
+(https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms)
 [![URC 2018](images/URC.jpg)](https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms "URC 2018")
-Mars Rover Manipal (MRM), a team of students from the Manipal Institute of Technology, finished seventh out of 36 teams from across the globe in the final round of the 12th University Rover Challenge (URC) competition at Utah in the US. [Read More...](https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms)
