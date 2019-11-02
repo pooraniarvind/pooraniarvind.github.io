@@ -3,7 +3,7 @@
 ### [MRM](https://pooraniarvind.github.io/mrm)
 
 
-![](final_5dbdc1c4b982eb001444124b_509085.gif)
+![](gifs/final_5dbdc1c4b982eb001444124b_509085.gif)
 
 
 ### [Aesthetic Enhancement of Images](https://anushl9o5.github.io/aesthetic)
