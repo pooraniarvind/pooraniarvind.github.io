@@ -6,6 +6,6 @@ Currently working as a Project Assistant at Video Analytics Lab, Indian Institut
 
 **Education:** B.S. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.
 
-**Area of Interest** Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence. 
+**Areas of Interest:** Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence. 
 
 My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.
