@@ -10,4 +10,4 @@ Currently working as a Project Assistant at Video Analytics Lab, Indian Institut
 
 My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.
 
-Aside from that, I'm a photogrpahy, music and film enthusiast.
+Aside from that, I'm a photogrphy, music and film enthusiast.
