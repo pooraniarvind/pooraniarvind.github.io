@@ -1,7 +1,7 @@
 # Projects
 ---
 ### [Mars Rover Manipal (MRM)](https://pooraniarvind.github.io/mrm)
-MRM is a multi-disciplinary student team from Manipal striving to design and build next generation rovers. As a member of the electronics and AI subsystem of this student rover design team (MRM), I was responsible for powering various segments of the rover,that work together to achieve desired performance of the rover over all the tasks. [Read More...] (https://pooraniarvind.github.io/mrm)
+MRM is a multi-disciplinary student team from Manipal striving to design and build next generation rovers. As a member of the electronics and AI subsystem of this student rover design team (MRM), I was responsible for powering various segments of the rover,that work together to achieve desired performance of the rover over all the tasks. [Read More](https://pooraniarvind.github.io/mrm)
 
 
 ![](gifs/final_5dbdc1c4b982eb001444124b_509085.gif)
