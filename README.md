@@ -1,2 +1,2 @@
 Website template
-(https://imgur.com/iYLAwZ8)
+https://imgur.com/iYLAwZ8
