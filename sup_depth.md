@@ -1,4 +1,4 @@
-# KAIST Multispectral Depth Estimation:
+# Mars Rover Manipal
 
 Supervised Depth Estimation using IR images 
 
