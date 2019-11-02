@@ -8,6 +8,7 @@ MRM is a multi-disciplinary student team from Manipal striving to design and bui
 
 
 ### [Aesthetic Enhancement of Images](https://anushl9o5.github.io/aesthetic)
+Based on HDRnet feature extractor proposed by Google, this method extends the network to produce blending weights for images. [Read More...](https://anushl9o5.github.io/aesthetic)
 
 ![](aesthetic_samples/samples2.png)
 
