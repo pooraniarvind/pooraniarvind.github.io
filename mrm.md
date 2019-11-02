@@ -10,7 +10,7 @@ As a member of the electronics and AI subsystem of this student rover design tea
 
 MRM participation in URC 2018 have been featured in leading newspapers, technical blogs and international magazines from time to time. Our achievements have been highlighted by all forms of media.
 
-###Winners of IRC 2018
+## Winners of IRC 2018
 
 [![Winners of IRC 2018](gifs/IRC.jpg)](https://timesofindia.indiatimes.com/city/mangaluru/mars-rover-manipal-secures-first-place-in-indian-rover-challenge-2018/articleshow/62495964.cms "Winners of IRC 2018")
 
