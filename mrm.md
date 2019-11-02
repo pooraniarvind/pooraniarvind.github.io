@@ -16,6 +16,6 @@ Mars Rover Manipal participated in IRC 2018 along with teams from all over Asia.
 [![Winners of IRC 2018](images/IRC.jpg)](https://timesofindia.indiatimes.com/city/mangaluru/mars-rover-manipal-secures-first-place-in-indian-rover-challenge-2018/articleshow/62495964.cms "Winners of IRC 2018")
 
 ## MRM bags 7th rank globally during URC 2018 at Utah in the US
-Mars Rover Manipal (MRM), a team of students from the Manipal Institute of Technology, finished seventh out of 36 teams from across the globe in the final round of the 12th University Rover Challenge (URC) competition at Utah in the US. [Read More...}(https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms)
+Mars Rover Manipal (MRM), a team of students from the Manipal Institute of Technology, finished seventh out of 36 teams from across the globe in the final round of the 12th University Rover Challenge (URC) competition at Utah in the US. [Read More...](https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms)
 
 [![URC 2018](images/URC.jpg)](https://timesofindia.indiatimes.com/home/education/news/mrm-bags-7th-rank-globally-during-urc/articleshow/64668802.cms "URC 2018")
