@@ -2,7 +2,7 @@
 Mars Rover Manipal (MRM) is a multi-disciplinary student team from Manipal Academy of Higher Education (MAHE) striving to design and build next generation rovers for exploration of extraterrestrial environments and applications of robotics in interplanetary missions.
 
 MRM System Acceptance Review URC 2018
-![gifs/final_5dbdc1c4b982eb001444124b_509085.gif]
+![](gifs/final_5dbdc1c4b982eb001444124b_509085.gif)
 
 
 As a member of the electronics and AI subsystem of this student rover design team (MRM), I was responsible for powering various segments of the rover,that work together to achieve desired performance of the rover over all the tasks. I was also responsible for control and communication of the rover and also works towards maximum customization of the products that are on the rover. Camera feeds from various points on the rover are hauled back to the base station for maximum view of the environment. The development of the autonomus system creates a closed loop scenario where various sensors of the rover communicate with each other to control the rover.
