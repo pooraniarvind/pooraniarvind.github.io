@@ -3,7 +3,7 @@ Mars Rover Manipal (MRM) is a multi-disciplinary student team from Manipal Acade
 
 MRM System Acceptance Review URC 2018
 
-(https://imgur.com/iYLAwZ8)
+(https://github.com/pooraniarvind/pooraniarvind.github.io/blob/master/gifs/final_5dbdc1c4b982eb001444124b_509085.gif)
 <blockquote class="imgur-embed-pub" lang="en" data-id="xxDL70m"><a href="//imgur.com/xxDL70m"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <div align="center">
