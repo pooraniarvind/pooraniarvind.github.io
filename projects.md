@@ -26,6 +26,7 @@ Based on HDRnet feature extractor proposed by Google, this method extends the ne
 --- 
 
 ### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)
+This breakthrough technology - real-time pedestrian detection to replace the human eye. there is a large potential to improve pedestrian detection
 #### Day
 
 ![](gifs/day_fcos.gif)
