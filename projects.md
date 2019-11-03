@@ -26,7 +26,9 @@ Based on HDRnet feature extractor proposed by Google, this method extends the ne
 --- 
 
 ### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)
-This breakthrough technology - real-time pedestrian detection to replace the human eye. there is a large potential to improve pedestrian detection
+There is a large potential to improve real-time pedestrian detection to replace the human eye is inspired by FCOS: Fully Convolutional One-Stage Object Detection to solve object detection in a per-pixel prediction fashion, analogue to semantic segmentation.[Read More...](https://anushl9o5.github.io/pedestrian)
+
+
 #### Day
 
 ![](gifs/day_fcos.gif)
