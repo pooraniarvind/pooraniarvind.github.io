@@ -10,7 +10,7 @@ B.Tech. in Electronics and Communication Engineering from <a href="https://manip
 <p><h3>Professional Experience</h3></p>
 <p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
 <p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
-<p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/<a> (2019).
+<p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/</a> (2019).
 <p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
 
 <p><h3>Areas of Interest</h3> </p>
