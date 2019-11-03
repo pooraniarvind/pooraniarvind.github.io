@@ -7,10 +7,10 @@
 <p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
 <p><b>Professional Experience:</b></p>
-Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology.
-Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017). my role was to test and debug code for their primary VoIP (Voice over Internet Protocol) products. This familiarized me with working on large codebases and gave me plenty of experience with Linux.</li>
-  <li>Research internship at the [Indian Institute of Science (IISc) Bangalore](http://cds.iisc.ac.in/research/labs/) (2019). Did my final bachelor’s project, which was pedestrian detection at Video Analytics Lab, CDS IISc. </li>
-</ul>
+<p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology.</p>
+<p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017). my role was to test and debug code for their primary VoIP (Voice over Internet Protocol) products. This familiarized me with working on large codebases and gave me plenty of experience with Linux.</p>
+<p>Research internship at the [Indian Institute of Science (IISc) Bangalore](http://cds.iisc.ac.in/research/labs/) (2019). Did my final bachelor’s project, which was pedestrian detection at Video Analytics Lab, CDS IISc.</p>
+
 <p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
 <p>My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.</p>
