@@ -6,6 +6,12 @@
 
 <p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
+<p><b>Professional Experience:</b></p>
+<ul>
+  <li>Summer internship at the research division of Hindustan Aeronautics Limited, an aircraft manufacturer (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology. </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 <p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
 <p>My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.</p>
