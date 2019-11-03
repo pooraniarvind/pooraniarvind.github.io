@@ -1,7 +1,5 @@
-<html>
-custom_css: index.css
-custom_js: index.js
-</html>
+<html>custom_css: index.css</html>
+<html>custom_js: index.js</html>
 
 # About me
 ---
