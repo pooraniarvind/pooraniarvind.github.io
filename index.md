@@ -4,15 +4,17 @@
 <font size="-1">Hey!<br>
 <p>Currently working as a Project Assistant at Video Analytics Lab, CDS Indian Institute of Science (IISc), Bangalore, India. At IISc, I work on projects for developing algorithm and logic for pedestrian detection for autonomous vehicles. Apart from constant assimilation of technical knowledge in deep learning, computer vision and their relevant programming tools, this opportunity has helped me to gain a lot of insight into the format of research itself. </p>
 
-<p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
+<p><h3>Education</h3> </p>
+<p>B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
-<p><h2>Professional Experience:</h2></p>
+<p><h3>Professional Experience</h3></p>
 <p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
 <p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
 <p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/<a> (2019).</p>
 <p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
 
-<p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
+<p><h3>Areas of Interest</h3> </p>
+<p>Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
 <p>My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.</p>
 
