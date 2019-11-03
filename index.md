@@ -11,3 +11,14 @@
 <p>My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.</p>
 
 <p>Aside from that, I'm a photogrphy, music and film enthusiast.</p>
+
+<div class="section explore-projects">
+    <div class="Grid container">
+        <div class="Grid-cell left-text u-size5of12 u-after1of12">
+            <h1 class="small-title mega-margin">Explore Projects</h1>
+            <p class="mega-margin">Twitter has been built on open source since the beginning. Openness is part of our DNA. The projects you see here were born at Twitter, and patches are always welcome!</p>
+            <button onclick="location.href='projects.html'" type="button" class="Button Button--large">View All Projects</button>
+        </div>
+        <div class="Grid-cell explore-projects-blank"></div>
+    </div>
+</div>
