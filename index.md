@@ -2,15 +2,15 @@
 ---
 <p align="justify">
 <font size="-1">Hey!<br>
-<p>Currently working as a Project Assistant at Video Analytics Lab, Indian Institute of Science (IISc), Bangalore, India. At IISc, I work on projects for developing algorithm and logic for pedestrian detection for autonomous vehicles. Apart from constant assimilation of technical knowledge in deep learning, computer vision and their relevant programming tools, this opportunity has helped me to gain a lot of insight into the format of research itself. </p>
+<p>Currently working as a Project Assistant at Video Analytics Lab, CDS Indian Institute of Science (IISc), Bangalore, India. At IISc, I work on projects for developing algorithm and logic for pedestrian detection for autonomous vehicles. Apart from constant assimilation of technical knowledge in deep learning, computer vision and their relevant programming tools, this opportunity has helped me to gain a lot of insight into the format of research itself. </p>
 
 <p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
 <p><b>Professional Experience:</b></p>
 <ul>
-  <li>Summer internship at the research division of Hindustan Aeronautics Limited, an aircraft manufacturer (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology. </li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Summer internship at the research division of [Hindustan Aeronautics Limited Bangalore](https://hal-india.co.in/) (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology. </li>
+  <li>Summer internship at [Sonus Networks](https://ribboncommunications.com/), a multinational telecommunications company (2017). my role was to test and debug code for their primary VoIP (Voice over Internet Protocol) products. This familiarized me with working on large codebases and gave me plenty of experience with Linux.</li>
+  <li>Research internship at the [Indian Institute of Science (IISc) Bangalore](http://cds.iisc.ac.in/research/labs/) (2019). Did my final bachelor’s project, which was pedestrian detection at Video Analytics Lab, CDS IISc. </li>
 </ul>
 <p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
