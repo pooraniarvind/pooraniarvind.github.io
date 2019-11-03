@@ -1,6 +1,3 @@
-<html>custom_css: index.css</html>
-<html>custom_js: index.js</html>
-
 # About me
 ---
 <p align="justify">
