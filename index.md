@@ -6,11 +6,11 @@
 
 <p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
-<p><b>Professional Experience:</b></p>
+<p><h2>Professional Experience:</h2></p>
 <p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
 <p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
 <p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/<a> (2019).</p>
-<p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present)</p>
+<p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
 
 <p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
