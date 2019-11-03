@@ -7,9 +7,9 @@
 <p><b>Education:</b> B.Tech. in Electronics and Communication Engineering, MIT Manipal (2015-2019) with a minor in embedded systems.</p>
 
 <p><b>Professional Experience:</b></p>
-<p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017). Working on helicopter systems, I strengthened my grasp of control systems and their integration with avionic sensor technology.</p>
-<p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017). my role was to test and debug code for their primary VoIP (Voice over Internet Protocol) products. This familiarized me with working on large codebases and gave me plenty of experience with Linux.</p>
-<p>Research internship at the <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science (IISc) Bangalore</a> (2019). Did my final bachelor’s project, which was pedestrian detection at Video Analytics Lab, CDS IISc.</p>
+<p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
+<p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
+<p>Research internship final bachelor’s project at the <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science (IISc) Bangalore</a> (2019).</p>
 
 <p><b>Areas of Interest:</b> Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
 
