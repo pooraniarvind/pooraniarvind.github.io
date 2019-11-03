@@ -5,7 +5,7 @@
 <p>Currently working as a Project Assistant at Video Analytics Lab, CDS Indian Institute of Science (IISc), Bangalore, India. At IISc, I work on projects for developing algorithm and logic for pedestrian detection for autonomous vehicles. Apart from constant assimilation of technical knowledge in deep learning, computer vision and their relevant programming tools, this opportunity has helped me to gain a lot of insight into the format of research itself. </p>
 
 <p><h3>Education</h3> </p>
-B.Tech. in Electronics and Communication Engineering, <a href="https://manipal.edu/mit/programs/program-list/btech/btech-electronics-and-communication-engineering.html> Manipal Instistute of Technology (MIT), Manipal, India</a> (2015-2019) with a minor in embedded systems.
+B.Tech. in Electronics and Communication Engineering from <a href="https://manipal.edu/mit/programs/program-list/btech/btech-electronics-and-communication-engineering.html"> Manipal Instistute of Technology (MIT), Manipal, India</a> (2015-2019) with a minor in embedded systems.
 
 <p><h3>Professional Experience</h3></p>
 <p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
