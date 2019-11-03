@@ -8,7 +8,7 @@ MRM is a multi-disciplinary student team from Manipal striving to design and bui
 
 
 ### [Aesthetic Enhancement of Images](https://anushl9o5.github.io/aesthetic)
-Based on HDRnet feature extractor proposed by Google, this method extends the network to produce blending weights for images. [Read More...](https://anushl9o5.github.io/aesthetic)
+Based on HDRnet feature extractor proposed by Google, this method extends the network to produce blending weights for images. [Read More...](https://pooraniarvind.github.io/aesthetic)
 
 ![](aesthetic_samples/samples2.png)
 
@@ -26,7 +26,7 @@ Based on HDRnet feature extractor proposed by Google, this method extends the ne
 --- 
 
 ### [Anchorless Pedestrian Detection](https://anushl9o5.github.io/pedestrian)
-There is a large potential to improve real-time pedestrian detection to replace the human eye is inspired by FCOS: Fully Convolutional One-Stage Object Detection to solve object detection in a per-pixel prediction fashion, analogue to semantic segmentation.[Read More...](https://anushl9o5.github.io/pedestrian)
+There is a large potential to improve real-time pedestrian detection to replace the human eye. This is inspired by FCOS: Fully Convolutional One-Stage Object Detection to solve object detection in a per-pixel prediction fashion, analogue to semantic segmentation.[Read More...](https://pooraniarvind.github.io/pedestrian)
 
 
 #### Day
