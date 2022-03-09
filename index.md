@@ -10,11 +10,8 @@
 
 <p>Specialities: Technical Writing, Localization,  Content Strategy,  </p>
 
-<p><h3>Education</h3> </p>
-B.Tech. in Electronics and Communication Engineering from <a href="https://manipal.edu/mit/programs/program-list/btech/btech-electronics-and-communication-engineering.html"> Manipal Instistute of Technology (MIT), Manipal, India</a> (2015-2019).
-
 <p><h3>Professional Experience</h3></p>
-<p>Summer internship at the research division of <a href="https://hal-india.co.in/">Hindustan Aeronautics Limited Bangalore</a> (2017).</p>
+<p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> October 2015 onwards.</p>
 <p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
 <p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/</a> (2019).
 <p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
