@@ -7,11 +7,11 @@
 
 <p>I lead a team of technical writers, information architects, editors and localization specialists who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery system (<a href="https://documentation.avaya.com/">Avaya Documentation Center)</a>.</p>
 
-<p>Specialities: Technical Writing, Localization,  Content Strategy,  </p>
+<p>Specialities: Technical Writing, Localization,  Content Strategy,  Training, E-Learning, Curriculum Development, Inclusion and Diversity, Coaching and Mentoring.</p>
 
 <p><h3>Professional Experience</h3></p>
 <p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> October 2015 onwards.</p>
-<p>Summer internship at <a href="https://ribboncommunications.com/">Sonus Networks</a> (2017).</p>
+<p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> July 2010 - September 2015.</p>
 <p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/</a> (2019).
 <p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
 
