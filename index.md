@@ -20,14 +20,4 @@
 <p><h3>Domain Areas</h3> </p>
 <p>Networking, Telecommunications, VoIP, Unified Communications, Messaging, ERP, CRM, Directory Services.</p> 
 <p><h3>SDLC methodologies</h3> </p>
-Agile, Scrum, DevOps, Waterfall
-
-<div class="section explore-projects">
-    <div class="Grid container">
-        <div class="Grid-cell left-text u-size5of12 u-after1of12">
-            <p class="mega-margin"></p>
-            <button onclick="location.href='projects.html'" type="button" class="Button Button--large">View All Projects</button>
-        </div>
-        <div class="Grid-cell explore-projects-blank"></div>
-    </div>
-</div>
+<p>Agile, Scrum, DevOps, Waterfall</p>
