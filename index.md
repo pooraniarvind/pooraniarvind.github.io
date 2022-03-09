@@ -28,7 +28,7 @@ Agile, Scrum, DevOps, Waterfall
     <div class="Grid container">
         <div class="Grid-cell left-text u-size5of12 u-after1of12">
             <h1 class="small-title mega-margin">Explore Projects</h1>
-            <p class="mega-margin">The projects you see here were done in MIT Manipal and Video Analytics Lab at CDS IISC Bangalore.</p>
+            <p class="mega-margin"></p>
             <button onclick="location.href='projects.html'" type="button" class="Button Button--large">View All Projects</button>
         </div>
         <div class="Grid-cell explore-projects-blank"></div>
