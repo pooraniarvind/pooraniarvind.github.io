@@ -5,7 +5,7 @@
 
 <p>My core skills involve setting up and building documentation teams from scratch and take product documentation deliverables on par with industry standards.</p>
 
-<p>I lead a team of technical writers, information architects, editors and localization specialists who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery system (<a href="https://documentation.avaya.com/">Avaya Documentation Center)</a>.</p>
+<p>I lead a team of technical writers, information architects, editors and localization specialists who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform (<a href="https://documentation.avaya.com/">Avaya Documentation Center)</a>.</p>
 
 <p>Specialities: Technical Writing, Localization,  Content Strategy,  Training, E-Learning, Curriculum Development, Inclusion and Diversity, Coaching and Mentoring.</p>
 
