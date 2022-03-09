@@ -22,8 +22,6 @@
 <p><h3>SDLC methodologies</h3> </p>
 Agile, Scrum, DevOps, Waterfall
 
-<p>Aside from that, I'm a photogrphy, music and film enthusiast.</p>
-
 <div class="section explore-projects">
     <div class="Grid container">
         <div class="Grid-cell left-text u-size5of12 u-after1of12">
