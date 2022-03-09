@@ -10,9 +10,9 @@
 <p>Specialities: Technical Writing, Localization,  Content Strategy,  Training, E-Learning, Curriculum Development, Inclusion and Diversity, Coaching and Mentoring.</p>
 
 <p><h3>Professional Experience</h3></p>
-<p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> October 2015 onwards.</p>
-<p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> July 2010 - September 2015.</p>
-<p>Research internship for final bachelor’s project at <a href="http://cds.iisc.ac.in/research/labs/">Indian Institute of Science Bangalore, India/</a> (2019).
+<p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> (October 2015 onwards).</p>
+<p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> (July 2010 - September 2015).</p>
+<p>Program Manager - Documentation at <a href="https://www.cisco.com/">Cisco Systems</a> (August 2007 - July 2010).
 <p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
 
 <p><h3>Areas of Interest</h3> </p>
