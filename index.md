@@ -2,8 +2,13 @@
 ---
 <p align="justify">
 <font size="-1">Hey!<br>
-<p>Currently working as a Project Assistant at Video Analytics Lab, CDS Indian Institute of Science (IISc), Bangalore, India. At IISc, I work on projects for developing algorithm and logic for pedestrian detection for autonomous vehicles. </p>
-<p>Apart from constant assimilation of technical knowledge in deep learning, computer vision and their relevant programming tools, this opportunity has helped me to gain a lot of insight into the format of research itself. </p>
+<p>Experienced leader with a demonstrated history of working in the networking and telecommunications industry. Strong content professional skilled in Technical Documentation, Content Management, Content Strategy and Design, and Operations Management.</p>
+
+<p>My core skills involve setting up and building documentation teams from scratch and take product documentation deliverables on par with industry standards.</p>
+
+<p>I manage a team of technical writers, information architects, editors and localization specialists who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery system.</p>
+
+<p>Specialities: Technical Writing, Localization,  Content Strategy,  </p>
 
 <p><h3>Education</h3> </p>
 B.Tech. in Electronics and Communication Engineering from <a href="https://manipal.edu/mit/programs/program-list/btech/btech-electronics-and-communication-engineering.html"> Manipal Instistute of Technology (MIT), Manipal, India</a> (2015-2019).
