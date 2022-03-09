@@ -1,7 +1,6 @@
 # About me
 ---
 <p align="justify">
-<font size="-1">Hey!<br>
 <p>Experienced leader with a demonstrated history of working in the networking and telecommunications industry. Strong content professional skilled in Technical Documentation, Content Management, Content Strategy and Design, and Operations Management.</p>
 
 <p>My core skills involve setting up and building documentation teams from scratch and take product documentation deliverables on par with industry standards.</p>
