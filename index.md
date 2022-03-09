@@ -10,15 +10,17 @@
 <p>Specialities: Technical Writing, Localization,  Content Strategy,  Training, E-Learning, Curriculum Development, Inclusion and Diversity, Coaching and Mentoring.</p>
 
 <p><h3>Professional Experience</h3></p>
-<p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> (October 2015 onwards).</p>
+<p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> (October 2015 - Present).</p>
 <p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> (July 2010 - September 2015).</p>
 <p>Program Manager - Documentation at <a href="https://www.cisco.com/">Cisco Systems</a> (August 2007 - July 2010).
-<p>Project Assistant at <a href="http://cds.iisc.ac.in/research/labs/">Video Analytics Lab, Indian Institute of Science Bangalore, India</a> (Present).</p>
-
-<p><h3>Areas of Interest</h3> </p>
-<p>Computer Vision, AI, Machine Learning, Robotics, adaptive multi-robot systems and cognitive artificial intelligence.</p> 
-
-<p>My goal is to pursue a career of research professional on technologies bringing cognitive artificial intelligence (CAI) to a level comparable to humans at a research-oriented, commercial, or academic organization.</p>
+<p>JUNOS Writing Lead at <a href="https://www.juniper.net/us/en.html">Juniper Networks India Pvt. Ltd. </a>(December 2006 - July 2007).</p>
+<p>Project Manager - Documentation at <a href="https://www.hcltech.com/">HCL Technologies Ltd.</a> (November 2003 - November 2006).</p>
+<p>Senior Technical Writer at <a href="https://www.citrix.com/">Citrix R & D India </a>(May 2003 - November 2003).</p>
+<p>Technical Publisher at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
+<p><h3>Domain Areas</h3> </p>
+<p>Networking, Telecommunications, VoIP, Unified Communications, Messaging, ERP, CRM, Directory Services.</p> 
+<p><h3>SDLC methodologies</h3> </p>
+Agile, Scrum, DevOps, Waterfall
 
 <p>Aside from that, I'm a photogrphy, music and film enthusiast.</p>
 
