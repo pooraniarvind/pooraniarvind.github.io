@@ -1,12 +1,10 @@
 # About me
 ---
 <p align="justify">
-<p>Experienced leader with a demonstrated history of working in the networking and telecommunications industry. Strong content professional skilled in Technical Documentation, Content Management, Content Strategy and Design, and Operations Management.</p>
-
-<p>My core skills involve setting up and building documentation teams from scratch and take product documentation deliverables on par with industry standards.</p>
-
+<p>Seasoned leader with a demonstrated history of working in the information technology and services industry. Rich experience in business operations and management.</p>
+<p>Expertise in cloud content, including reference architectures, design patterns, and best practices across the complete technology stack. Skilled in DevOps, Software Documentation, User Assistance, Technical Writing, Digital Content, Information Design, Content Management, Content Publishing, and Editing.</p>
+<p>Passionate about new trends in technology, social media and collaborative tools in enhancing communication within the organization, with partners and customers. </p>
 <p>I lead a team of technical writers, information architects, editors and localization specialists who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform (<a href="https://documentation.avaya.com/">Avaya Documentation Center)</a>.</p>
-
 <p>Specialities: Technical Writing, Localization,  Content Strategy,  Training, E-Learning, Curriculum Development, Inclusion and Diversity, Coaching and Mentoring.</p>
 
 <p><h3>Professional Experience</h3></p>
