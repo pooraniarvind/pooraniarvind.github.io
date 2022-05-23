@@ -21,7 +21,7 @@
 <p><b>Authoring tool and editor</b>: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author</p>
 <p><b>Wiki</b>: MediaWiki, Confluence </p>
 <p><b>CI tool</b>: Travis CI, GitLab CI/CD </p>
-<P><b>API Dcoumentation</b>: Postman, Swagger UI </p>
+<P><b>API Documentation</b>: Postman, Swagger UI </p>
 <P><b>Markup language</b>: XML, HTML, Markdown, AsciiDoc</p>
 <P><b>Static site generator</b>: Jekyll</p>
 <p><h3>Education</h3></p>
