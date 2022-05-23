@@ -17,7 +17,7 @@
 <p>Technical Publisher at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
 <p><h3>Tools and Technologies: </h3></p>
 <p>Version control tool: Git, GitHub, SVN, Perforce</p>
-<p>Content Management System: SDL Trisoft, Adobe Experience Manager, Documentum, Interwoven TeamSite, WordPress</p>
+<p>Content Management System: SDL Trisoft, Adobe Experience Manager (Authoring), Documentum, Interwoven TeamSite, WordPress</p>
 <p>Authoring tool and editor: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author</p>
 <p>Wiki: MediaWiki, Confluence </p>
 <p>CI tool: Travis CI, GitLab CI/CD </p>
