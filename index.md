@@ -16,7 +16,7 @@
 <p>Senior Technical Writer at <a href="https://www.citrix.com/">Citrix R & D India </a>(May 2003 - November 2003).</p>
 <p>Technical Publisher at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
 <p><h3>Tools and Technologies: </h3></p>
-<p style="color:darkblue"><b>Version control tool</b></p>: Git, GitHub, SVN, Perforce
+<p><b>Version control tool</b>: Git, GitHub, SVN, Perforce</p>
 <p><b>Content Management System</b>: SDL Trisoft, Adobe Experience Manager (Author and Deploy), Documentum, Interwoven TeamSite, WordPress</p>
 <p><b>Authoring tool and editor</b>: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author</p>
 <p><b>Wiki</b>: MediaWiki, Confluence </p>
