@@ -16,10 +16,11 @@
 <p>Senior Technical Writer at <a href="https://www.citrix.com/">Citrix R & D India </a>(May 2003 - November 2003).</p>
 <p>Technical Publisher at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
 <p><h3>Tools and Technologies: </h3></p>
-<p>Version control tools: Git, GitHub, SVN, Perforce</p>
+<p>Version control tool: Git, GitHub, SVN, Perforce</p>
 <p>Content Management System: SDL Trisoft, Adobe Experience Manager, Documentum, Interwoven TeamSite, WordPress</p>
-<p>Authoring tools and editors: Arbortext Epic Editor, Adobe FrameMaker, XMetal Author</p>
+<p>Authoring tool and editor: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author</p>
 <p>Wiki: MediaWiki, Confluence </p>
-<p>CI tools: Travis CI, GitLab CI/CD </p>
+<p>CI tool: Travis CI, GitLab CI/CD </p>
 <P>API Dcoumentation: Postman, Swagger UI </p>
-<P>Markup language: XML, HTML, Markdown, AsciiDoc </p>
+<P>Markup language: XML, HTML, Markdown, AsciiDoc</p>
+<P>Static site generator: Jekyll
