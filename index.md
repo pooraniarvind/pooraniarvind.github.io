@@ -24,3 +24,7 @@
 <P><b>API Dcoumentation</b>: Postman, Swagger UI </p>
 <P><b>Markup language</b>: XML, HTML, Markdown, AsciiDoc</p>
 <P><b>Static site generator</b>: Jekyll</p>
+<p><h3>Education</h3></p>
+<p>Bachelor Degree in Economics from Madras University </p>
+<p>Post-graduate Diploma in Systems Management</p>
+<p>Diploma in RDBMS (Oracle) </p>
