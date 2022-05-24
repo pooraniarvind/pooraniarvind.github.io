@@ -18,7 +18,7 @@
 <p><h3>Tools and Technologies: </h3></p>
 <p><b>Version control tool</b>: Git, GitHub, SVN, Perforce</p>
 <p><b>Content Management System</b>: SDL Trisoft, Adobe Experience Manager (Author and Deploy), Documentum, Interwoven TeamSite, WordPress</p>
-<p><b>Authoring tool and editor</b>: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author</p>
+<p><b>Authoring tool and editor</b>: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author, Oxygen XML Editor</p>
 <p><b>Wiki</b>: MediaWiki, Confluence </p>
 <p><b>CI tool</b>: Travis CI, GitLab CI/CD </p>
 <P><b>API Documentation</b>: Postman, Swagger UI </p>
