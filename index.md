@@ -18,6 +18,7 @@
 <p><h3>Tools and Technologies: </h3></p>
 <p><b>Version control tool</b>: Git, GitHub, Subversion (SVN), Perforce</p>
 <p><b>Content Management System</b>: SDL Trisoft, Adobe Experience Manager (Author and Deploy), Documentum, Interwoven TeamSite, WordPress</p>
+<p><b>Content Delivery Network(CDN)</b>: Akamai, Salesforce, Amazon CloudFront with Amazon S3
 <p><b>Authoring tool and editor</b>: Arbortext Epic Editor, Adobe FrameMaker, FrameScript, XMetal Author, Oxygen XML Editor</p>
 <p><b>Wiki</b>: MediaWiki, Confluence </p>
 <p><b>CI tool</b>: Travis CI, GitLab CI/CD </p>
