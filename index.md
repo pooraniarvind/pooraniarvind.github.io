@@ -27,5 +27,5 @@
 <p><b>Defect/Bug tracking tool</b>: Jira, Bugzilla</p>
 <p><h3>Education</h3></p>
 <p>Bachelor Degree in Economics from Madras University </p>
-<p>Post-graduate Diploma in Systems Management</p>
-<p>Diploma in RDBMS (Oracle) </p>
+<p>Post-graduate Diploma in Systems Management from NIIT India</p>
+<p>Diploma in RDBMS - Oracle Application Developer(D2K) from Software Solution Integrated Limited India</p>
