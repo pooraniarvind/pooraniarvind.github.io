@@ -1,6 +1,7 @@
 # Hi, I'm Poorani 👋 👩
 
 <img src="https://github.com/pooraniarvind/pooraniarvind.github.io/blob/master/images/new-banner.jpg" alt="banner that says Poorani Aravindan - Technical Writing | Information Architecture | Content Strategy | Content Management alongside a cartoon illustration of Poorani">
+
 Results-oriented management professional with comprehensive experience collaborating with internal teams to obtain an in-depth
 understanding of documentation for product development.
 
