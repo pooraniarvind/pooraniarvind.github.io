@@ -12,9 +12,9 @@
 <p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> (July 2010 - September 2015).</p>
 <p>Program Manager - Documentation at <a href="https://www.cisco.com/">Cisco Systems</a> (August 2007 - July 2010).
 <p>JUNOS Writing Lead at <a href="https://www.juniper.net/us/en.html">Juniper Networks India Pvt. Ltd. </a>(December 2006 - July 2007).</p>
-<p>Project Manager - Documentation at <a href="https://www.hcltech.com/">HCL Technologies Ltd.</a> (November 2003 - November 2006).</p>
+<p>Documentation Manager at <a href="https://www.hcltech.com/">HCL Technologies Ltd.</a> (November 2003 - November 2006).</p>
 <p>Senior Technical Writer at <a href="https://www.citrix.com/">Citrix R & D India </a>(May 2003 - November 2003).</p>
-<p>Technical Publisher at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
+<p>Technical Writer at <a href="https://www.linkedin.com/company/sun-microsystems_1062/">Sun Microsystems Pvt. Ltd.</a> (November 2001 - April 2003).</p>
 <p><h3>Tools and Technologies: </h3></p>
 <p><b>Version control tool</b>: Git, GitHub, Subversion (SVN), Perforce</p>
 <p><b>Content Management System</b>: SDL Trisoft, Adobe Experience Manager (Author and Deploy), Documentum, Interwoven TeamSite, WordPress</p>
