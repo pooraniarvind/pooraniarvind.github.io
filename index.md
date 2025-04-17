@@ -2,11 +2,13 @@
 # About me
 ---
 <p align="justify">
-<p>Seasoned leader with a demonstrated history of working in the information technology and services industry. Rich experience in business operations and management.</p>
-<p>Expertise in cloud content, including reference architectures, design patterns, and best practices across the complete technology stack. Skilled in DevOps, Software Documentation, User Assistance, Technical Writing, Digital Content, Information Design, Content Management, Content Publishing, and Editing.</p>
-<p>Good understanding of SDLC, DDLC, Agile, DevOps and Docs as Code key concepts. Experience in creating CI pipelines for publishing content using TravisCI, Amazon S3 and CloudFront services.</p>
-<p>Currently, I manage a team of Technical Writers, Documentation managers, Information Architects, Editors and Localization Project Managers who create cutting edge content in DITA XML managed in SDL CCMS. The content is published under continuous integration with the Zoomin content delivery platform.</p>
-<p>Passionate about new trends in technology, social media and collaborative tools in enhancing communication within the organization, with partners and customers. </p>
+Specialist in the area of content design and information management, with a career spanning more than 20+ years
+in the IT industry, handling and overseeing user centric content solutions for varied industries.
+Highly successful track record in consulting, design and development of solutions to enhance customer experience
+of content, setting up and growing documentation teams, and delivering high quality content solutions. 
+Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in
+customer engagement building, customer expectation mapping and requirements analysis, arriving at effective
+documentation solutions, building competent documentation teams, and ensuring seamless delivery.
 <p><h3>Work Experience</h3></p>
 <p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> (October 2015 - Present).</p>
 <p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> (July 2010 - September 2015).</p>
