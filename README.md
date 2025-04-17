@@ -2,11 +2,12 @@
 
 <img src="https://github.com/pooraniarvind/pooraniarvind.github.io/blob/master/images/new-banner.jpg" alt="banner that says Poorani Aravindan - Technical Writing | Information Architecture | Content Strategy | Content Management alongside a cartoon illustration of Poorani">
 
-Results-oriented management professional with comprehensive experience collaborating with internal teams to obtain an in-depth
-understanding of documentation for product development.
+Specialist in the area of content design and information management, with a career spanning more than 20+ years
+in the IT industry, handling and overseeing user centric content solutions for varied industries.
 
-Effective communicator skilled in influencing, articulating, and driving change across organizational and cross-functional boundaries. Capable
-of using benchmarks and performance metrics to track progress, while maintaining a keen focus on optimizing business impact.
+Highly successful track record in consulting, design and development of solutions to enhance customer experience
+of content, setting up and growing documentation teams, and delivering high quality content solutions. 
 
-Possess excellent organizational and data analysis skills, technical writing abilities, and exceptional attention to detail in managing deadlines,
-priorities, and multiple concurrent tasks for the delivery of high-quality technical documentation within the allocated timeline.
+Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in
+customer engagement building, customer expectation mapping and requirements analysis, arriving at effective
+documentation solutions, building competent documentation teams, and ensuring seamless delivery.
