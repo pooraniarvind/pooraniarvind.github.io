@@ -4,6 +4,7 @@
 <p align="justify">
 Specialist in the area of content design and information management, with a career spanning more than 20+ years
 in the IT industry, handling and overseeing user centric content solutions for varied industries.
+  <br>
 Highly successful track record in consulting, design and development of solutions to enhance customer experience
 of content, setting up and growing documentation teams, and delivering high quality content solutions. 
 Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in
