@@ -6,10 +6,11 @@ Specialist in the area of content design and information management, with a care
 in the IT industry, handling and overseeing user centric content solutions for varied industries.
   <br>
 Highly successful track record in consulting, design and development of solutions to enhance customer experience
-of content, setting up and growing documentation teams, and delivering high quality content solutions. 
+of content, setting up and growing documentation teams, and delivering high quality content solutions. <br>
 Managed multiple technical documentation programs across geographical locations. People-oriented leader with key skills in
 customer engagement building, customer expectation mapping and requirements analysis, arriving at effective
 documentation solutions, building competent documentation teams, and ensuring seamless delivery.
+  <br>
 <p><h3>Work Experience</h3></p>
 <p>Senior Manager, Global Information Solutions at <a href="https://www.avaya.com/en/">Avaya India Private Limited </a> (October 2015 - Present).</p>
 <p>Senior Manager, Technical Publications at <a href="https://ribboncommunications.com/">Sonus Networks</a> (July 2010 - September 2015).</p>
